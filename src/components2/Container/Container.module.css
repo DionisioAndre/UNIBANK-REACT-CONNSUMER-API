@@ -1,0 +1,10 @@
+.Container{
+    width: 100%;
+    min-height: 100vh;
+    background-color:rgb(30, 29, 63);
+    color: #fff;
+    padding-bottom: 1.5rem;
+    text-align: center;
+    overflow: hidden;
+    padding-inline: 1.5rem;
+}
